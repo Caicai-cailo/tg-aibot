@@ -1,0 +1,17 @@
+# 核心依赖
+python-telegram-bot==20.7
+openai>=1.0.0
+python-dotenv==1.0.0
+requests>=2.31.0
+aiofiles>=23.0.0
+Pillow>=10.0.0
+
+# 实时监控依赖
+psutil>=5.9.0
+aioredis>=5.0.0
+asyncio-mqtt>=0.16.0
+
+# 开发工具
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0
